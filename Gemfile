@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem "omniauth-facebook"
 gem "devise"
 gem "shoulda"
 gem 'haml'
