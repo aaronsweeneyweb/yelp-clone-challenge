@@ -34,7 +34,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 group :test do
-
+  gem "rspec-collection_matchers"
   gem 'rspec-rails'
   gem "capybara"
 end
