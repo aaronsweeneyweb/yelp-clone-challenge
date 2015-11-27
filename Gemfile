@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-
+gem "devise"
 gem "shoulda"
 gem 'haml'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
